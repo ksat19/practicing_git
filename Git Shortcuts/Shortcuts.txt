@@ -12,3 +12,11 @@ git push --set-upstream origin <branch>
 git branch <branch-name>
 git checkout -b <branch-name>
 git checkout <branch-name>
+
+git fetch
+git merge
+git remote update
+git log
+
+git status
+git log
