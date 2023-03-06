@@ -1,1 +1,14 @@
 # Here the shortcuts(basically git commands that are used regularly) will be placed.
+
+Some basic Commands:
+git add
+git commit -m "Message"
+git push
+git pull
+
+git push -u origin main
+git push --set-upstream origin <branch>
+
+git branch <branch-name>
+git checkout -b <branch-name>
+git checkout <branch-name>
