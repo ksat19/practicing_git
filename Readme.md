@@ -1,0 +1,1 @@
+This Repo is for learning and testing various git commands and different ways for making GIT Repo Tree clean.
