@@ -1,0 +1,1 @@
+# Here the shortcuts(basically git commands that are used regularly) will be placed.
